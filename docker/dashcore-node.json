@@ -4,7 +4,7 @@
   "services": [
     "quantisnetd",
     "web",
-    "@quantisnetevo/insight-api"
+    "insight-api"
   ],
   "servicesConfig": {
     "quantisnetd": {
