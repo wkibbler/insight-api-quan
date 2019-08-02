@@ -4,7 +4,7 @@ var should = require('should');
 var sinon = require('sinon');
 var BlockController = require('../lib/blocks');
 var quantisnetcore = require('@quantisnetevo/quantisnetcore-lib');
-var _ = require('loquantisnet');
+var _ = require('lodash');
 
 var blocks = require('./data/blocks.json');
 

@@ -3,7 +3,7 @@ var should = require('should');
 var sinon = require('sinon');
 var quantisnetcore = require('@quantisnetevo/quantisnetcore-lib');
 var TxController = require('../lib/transactions');
-var _ = require('loquantisnet');
+var _ = require('lodash');
 
 describe('Transactions', function() {
   describe('/tx/:txid', function() {

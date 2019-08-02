@@ -2,7 +2,7 @@
 var sinon = require('sinon');
 var should = require('should');
 var AddressController = require('../lib/addresses');
-var _ = require('loquantisnet');
+var _ = require('lodash');
 var quantisnetcore = require('@quantisnetevo/quantisnetcore-lib');
 
 var txinfos = {
