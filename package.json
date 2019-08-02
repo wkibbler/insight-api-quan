@@ -1,6 +1,6 @@
 {
   "name": "@quantisnetevo/insight-api",
-  "description": "A Dash blockchain REST and WebSocket API Service",
+  "description": "A Quantsisnet blockchain REST and WebSocket API Service",
   "version": "2.3.3",
   "repository": "git://github.com/quantisnetevo/insight-api.git",
   "contributors": [

@@ -4,7 +4,7 @@
 [![NPM version](https://img.shields.io/npm/v/@quantisnetevo/insight-api.svg)](https://npmjs.org/package/@quantisnetevo/insight-api)
 [![API stability](https://img.shields.io/badge/stability-stable-green.svg)](https://nodejs.org/api/documentation.html#documentation_stability_index)
 
-> A Dash blockchain REST and WebSocket API Service
+> A Quantsisnet blockchain REST and WebSocket API Service
 
 This is a backend-only service. If you're looking for the web frontend application, take a look at https://github.com/quantisnetevo/insight-ui.
 
@@ -64,9 +64,9 @@ The API endpoints will be available by default at: `http://localhost:3001/insigh
 
 ### Prerequisites
 
-- [Dashcore Node Dash 4.x](https://github.com/quantisnetevo/quantisnetcore-node)
+- [Quantsisnetcore Node Quantsisnet 4.x](https://github.com/quantisnetevo/quantisnetcore-node)
 
-**Note:** You can use an existing Dash data directory, however `txindex`, `addressindex`, `timestampindex` and `spentindex` need to be enabled in `quantisnet.conf`, as well as a few other additional fields.
+**Note:** You can use an existing Quantsisnet data directory, however `txindex`, `addressindex`, `timestampindex` and `spentindex` need to be enabled in `quantisnet.conf`, as well as a few other additional fields.
 
 ### Query Rate Limit
 
@@ -914,7 +914,7 @@ Caching support has not yet been added in the v0.3 upgrade.
 
 ## Resources
 
-- (Medium)[How to setup a Dash Instant-Send Transaction using Insight API - The comprehensive way](https://medium.com/@obusco/setup-instant-send-transaction-the-comprehensive-way-a80a8a0572e)
+- (Medium)[How to setup a Quantsisnet Instant-Send Transaction using Insight API - The comprehensive way](https://medium.com/@obusco/setup-instant-send-transaction-the-comprehensive-way-a80a8a0572e)
 
 ## Contributing
 
@@ -922,4 +922,4 @@ Feel free to dive in! [Open an issue](https://github.com/quantisnetevo/insight-a
 
 ## License
 
-[MIT](LICENSE) &copy; Dash Core Group, Inc.
+[MIT](LICENSE) &copy; Quantsisnet Core Group, Inc.
